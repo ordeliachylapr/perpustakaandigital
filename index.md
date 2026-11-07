@@ -6,6 +6,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 2. [Belajar Bisnis Kepada Khadijah](ebook/Belajar Bisnis Kepada Khadijah.pdf) - Azti Arlina (2010)
 3. [Laut Bercerita](ebook/Laut Bercerita.pdf) - Leila S. Chudori (2017)
 4. [Menuju Era Baru Dokumentasi](ebook/Menuju Era Baru Dokumentasi.pdf) - Blasius Sudarsono (2016)
-   
+5. [Pengantar Teknologi Informasi](ebook/Pengantar Teknologi Informasi.pdf) - Ahmad Taufik dkk. (2022)
 ---
 *Powered by GitHub Pages*
