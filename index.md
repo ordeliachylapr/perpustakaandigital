@@ -4,5 +4,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Cetak Struk Pegembalian Mui 12](ebook/Cetak Struk Pegembalian Mui 12.pdf) – Chyla Ordelia (2026) 
 2. [Belajar Bisnis Kepada Khadijah](ebook/Belajar Bisnis Kepada Khadijah.pdf) - Azti Arlina (2010)
+3. [Laut Bercerita](ebook/Laut Bercerita.pdf) - Leila S. Chudori (2017)
 ---
 *Powered by GitHub Pages*
