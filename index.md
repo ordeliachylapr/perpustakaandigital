@@ -12,5 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Cantik itu Luka](ebook/Cantik itu Luka.pdf) - Eka Kurniawan (2015)
 9. [Ronggeng Dukuh Paruk](ebook/Ronggeng Dukuh Paruk.pdf) - Ahmad Tohari (2008)
 10. [The Old Man and The Sea](ebook/The Old Man and The Sea .pdf) - Ernest Hemingway (1952)
+11. [White Nights](ebook/White Nights .pdf) - Fiódor Dostoiévski (1848) 
 ---
 *Powered by GitHub Pages*
