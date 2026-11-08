@@ -10,6 +10,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [Ranjat Kembang](ebook/Ranjat Kembang.pdf) - Simpleman (2021)
 7. [Autumn in Paris](ebook/Autumn in Paris.pdf) - Ilana Tan (2007)
 8. [Cantik itu Luka](ebook/Cantik itu Luka.pdf) - Eka Kurniawan (2015)
-9. 
+9. [Ronggeng Dukuh Paruk](ebook/Ronggeng Dukuh Paruk.pdf) - Ahmad Tohari (2008)
 ---
 *Powered by GitHub Pages*
