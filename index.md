@@ -8,5 +8,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [Menuju Era Baru Dokumentasi](ebook/Menuju Era Baru Dokumentasi.pdf) - Blasius Sudarsono (2016)
 5. [Pengantar Teknologi Informasi](ebook/Pengantar Teknologi Informasi.pdf) - Ahmad Taufik dkk. (2022)
 6. [Ranjat Kembang](ebook/Ranjat Kembang.pdf) - Simpleman (2021)
+7. [Autumn in Paris](ebook/Autumn in Paris.pdf) - Ilana Tan (2007)
 ---
 *Powered by GitHub Pages*
