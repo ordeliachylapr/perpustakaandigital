@@ -9,5 +9,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Pengantar Teknologi Informasi](ebook/Pengantar Teknologi Informasi.pdf) - Ahmad Taufik dkk. (2022)
 6. [Ranjat Kembang](ebook/Ranjat Kembang.pdf) - Simpleman (2021)
 7. [Autumn in Paris](ebook/Autumn in Paris.pdf) - Ilana Tan (2007)
+8. [Cantik itu Luka](ebook/Cantik itu Luka.pdf) - Eka Kurniawan (2015)
+9. 
 ---
 *Powered by GitHub Pages*
