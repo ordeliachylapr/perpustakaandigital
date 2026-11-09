@@ -1,8 +1,9 @@
 # Digital Library
 Nama: Ordelia Chyla Prameswari
+
 NIM: 13040124130071
 
-Selamat Datang di Perpustakaan Digital.
+Selamat Datang di Perpustakaan Digital
 
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
