@@ -2,7 +2,8 @@
 Nama: Ordelia Chyla Prameswari
 NIM: 13040124130071
 
-Selamat Datang di Perpustakaan Digital
+Selamat Datang di Perpustakaan Digital.
+
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Cetak Struk Pegembalian Mui 12](ebook/Cetak Struk Pegembalian Mui 12.pdf) – Chyla Ordelia (2026) 
@@ -12,7 +13,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Pengantar Teknologi Informasi](ebook/Pengantar Teknologi Informasi.pdf) - Ahmad Taufik dkk. (2022)
 6. [Ranjat Kembang](ebook/Ranjat Kembang.pdf) - Simpleman (2021)
 7. [Autumn in Paris](ebook/Autumn in Paris.pdf) - Ilana Tan (2007)
-8. [Cantik itu Luka](ebook/Cantik itu Luka.pdf) - Eka Kurniawan (2015)
+8. [Cantik itu Luka](ebook/Cantik itu Luka .pdf) - Eka Kurniawan (2015)
 9. [Ronggeng Dukuh Paruk](ebook/Ronggeng Dukuh Paruk.pdf) - Ahmad Tohari (2008)
 10. [The Old Man and The Sea](ebook/The Old Man and The Sea .pdf) - Ernest Hemingway (1952)
 11. [White Nights](ebook/White Nights .pdf) - Fiódor Dostoiévski (1848)
